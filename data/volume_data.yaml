@@ -1,0 +1,13 @@
+train: C:/Users/ZCL/Commax/Commax-yolov5-drone/VolumeDetection2_Nov30/train/images
+val: C:/Users/ZCL/Commax/Commax-yolov5-drone/VolumeDetection2_Nov30/valid/images
+test: C:/Users/ZCL/Commax/Commax-yolov5-drone/VolumeDetection2_Nov30/test/images
+
+nc: 6
+names: ['0', '100', '20', '40', '60', '80']
+
+roboflow:
+  workspace: zeroclasslab
+  project: volume-detection-drone-2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zeroclasslab/volume-detection-drone-2/dataset/1

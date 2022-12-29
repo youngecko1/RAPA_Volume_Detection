@@ -1,0 +1,17 @@
+names:
+- black
+- blue
+- brown
+- gray
+- green
+- head
+- orange
+- pink
+- purple
+- red
+- sky
+- white
+- yellow
+nc: 13
+train: Connector-1/train/images
+val: Connector-1/valid/images

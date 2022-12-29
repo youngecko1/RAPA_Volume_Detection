@@ -1,0 +1,605 @@
+{
+    "1": {
+        "aruco_id": 1,
+        "full_count": 250,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/cabinet102_jpg.rf.065eda6267293639ef0fbc2e7b5f8454.jpg.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-30T17:20:13.866620Z"
+        },
+        "location": "3-4-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "SME1-1",
+        "prod_name": "일반 스크류",
+        "remainder": "58%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "2": {
+        "aruco_id": 2,
+        "full_count": 100,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-4-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "WOO-1",
+        "prod_name": "나무용 스크류",
+        "remainder": "77%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "3": {
+        "aruco_id": 3,
+        "full_count": 350,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-28T11:48:09.671Z"
+        },
+        "location": "2-4-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "GYT9-1",
+        "prod_name": "방수 스크류",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "4": {
+        "aruco_id": 4,
+        "full_count": 100,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/IMG_9791.jpg.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-30T17:20:13.284828Z"
+        },
+        "location": "2-2-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "BMT-3",
+        "prod_name": "소형 직각 스크류",
+        "remainder": "0%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "5": {
+        "aruco_id": 5,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "3-3-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "ROC-99",
+        "prod_name": "강화 스크류",
+        "remainder": "67%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "6": {
+        "aruco_id": 6,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-3-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "HGO-27",
+        "prod_name": "수출 스크류",
+        "remainder": "63%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "7": {
+        "aruco_id": 7,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/cabinet189_jpg.rf.ef7024892008add2d548d8fab3840c38.jpg.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-30T17:20:15.008203Z"
+        },
+        "location": "2-2-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "BTS3-1",
+        "prod_name": "칠번 스크류",
+        "remainder": "31%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "8": {
+        "aruco_id": 8,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/cabinet193_jpg.rf.e5327551e33e806eac6a465a0d06fc89.jpg.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-30T17:20:15.143406Z"
+        },
+        "location": "2-2-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "NNY56-1T",
+        "prod_name": "육번 스크류",
+        "remainder": "16%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "9": {
+        "aruco_id": 9,
+        "full_count": 100,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/cabinet96_jpg.rf.15b78f77323bf6c48615782575d20981.jpg.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-11-30T17:20:15.973604Z"
+        },
+        "location": "4-2-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "BPA58",
+        "prod_name": "플라스틱 스크류",
+        "remainder": "32%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "10": {
+        "aruco_id": 10,
+        "full_count": 450,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "2-4-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "OMH-1",
+        "prod_name": "PCB 스크류 1번",
+        "remainder": "99%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "11": {
+        "aruco_id": 11,
+        "full_count": 200,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "3-1-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "CCD3-1",
+        "prod_name": "오각형 스크류",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "12": {
+        "aruco_id": 12,
+        "full_count": 300,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-1-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "KTR3-1",
+        "prod_name": "도어 스크류",
+        "remainder": "90%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "13": {
+        "aruco_id": 13,
+        "full_count": 100,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-1-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "CPD1-01",
+        "prod_name": "일반 스크류",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "14": {
+        "aruco_id": 14,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "2-3-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "WIN-11",
+        "prod_name": "오각형 볼트",
+        "remainder": "100%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "15": {
+        "aruco_id": 15,
+        "full_count": 200,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-2-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "EPL66-1",
+        "prod_name": "플라스틱 2번 스크류",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "16": {
+        "aruco_id": 16,
+        "full_count": 10,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "2-3-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "JRO-1",
+        "prod_name": "틀별 스크류 1번",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "17": {
+        "aruco_id": 17,
+        "full_count": 200,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "3-3-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "MIN-25",
+        "prod_name": "소형 스크류 8번",
+        "remainder": "26%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "18": {
+        "aruco_id": 18,
+        "full_count": 200,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "3-3-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "LDA-1",
+        "prod_name": "오각형 스크류 2번",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "19": {
+        "aruco_id": 19,
+        "full_count": 400,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-1-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "BPD333-1",
+        "prod_name": "오각형 스크류",
+        "remainder": "36%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "20": {
+        "aruco_id": 20,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-3-1",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "LTX-44",
+        "prod_name": "고무 스크류",
+        "remainder": "88%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "21": {
+        "aruco_id": 21,
+        "full_count": 500,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "4-3-2",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "DWT-1",
+        "prod_name": "육각형 스크류",
+        "remainder": "79%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "22": {
+        "aruco_id": 22,
+        "full_count": 300,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "2-3-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "LAP-11",
+        "prod_name": "틀별 스크류 2번",
+        "remainder": "95%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "23": {
+        "aruco_id": 23,
+        "full_count": 250,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-31T12:05:18.022Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-31T02:04:12.790Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:54.231Z"
+        },
+        "location": "1-2-3",
+        "pred_takein": {
+            "__time__": "2022-11-03T09:03:04.253Z"
+        },
+        "prod_id": "LPG3-1",
+        "prod_name": "오번 스크류",
+        "remainder": "55%",
+        "usage": [
+            "리퍼 체결",
+            "볼트 조합기"
+        ]
+    },
+    "24": {
+        "aruco_id": 24,
+        "full_count": 600,
+        "img": "https://storage.googleapis.com/zcl-aruco.appspot.com/KakaoTalk_20221129_132238008.jpg",
+        "last_takein": {
+            "__time__": "2022-10-05T11:48:49.675Z"
+        },
+        "last_takeout": {
+            "__time__": "2022-10-19T03:45:26.018Z"
+        },
+        "last_update": {
+            "__time__": "2022-10-31T09:43:53.803Z"
+        },
+        "location": "1-2-1",
+        "pred_takein": {
+            "__time__": "2022-10-27T15:00:00.159Z"
+        },
+        "prod_id": "BTS90-1",
+        "prod_name": "삼각 볼트",
+        "remainder": "77%",
+        "usage": [
+            "도어락",
+            "홈시큐리티",
+            "홈넷",
+            "전자저울"
+        ],
+        "volume": "65%"
+    }
+}
